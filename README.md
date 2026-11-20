@@ -5,7 +5,7 @@
 
 Hi there! I'm a passionate **Frontend Developer** focused on building responsive, performant, and accessible web applications. I love bridging the gap between design and code, turning complex ideas into intuitive user experiences.
 
-- 👨‍💻 I’m currently working on **[MEMBER.ID](https://github.com/memberid)**
+- 👨‍💻 Currently building full-stack applications and exploring new opportunities.
 - 🤖 I’m currently learning and exploring about **Server Infrastructure and Generative AI**.
 - 🚀 Passionate about modern UI/UX, Web Performance, and Design Systems.
 - 💡 Continuously exploring new web technologies and frontend architecture.
